@@ -170,7 +170,8 @@ nav .nav-list li.btn:hover a{
 }
 
 .bottom{
-    margin-top: 90px;
+    margin-top: 95px;
+    margin-left: 45px;
 }
 .bottom p{
     color: #eee;
@@ -262,7 +263,7 @@ button:hover{
 }
 .title h2{
     color: white;
-    font-size: 50px;
+    font-size: 40px;
     width: 1130px;
     margin: 30px auto;
     text-align: center;
